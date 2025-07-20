@@ -1,4 +1,4 @@
-# Real-time Handwritten Digit Recognition System
+# Real-time Handwritten Digit Recognition
 
 This project develops a real-time handwritten digit recognition system using a Convolutional Neural Network (CNN) and deploys it as a web application.
 
