@@ -48,19 +48,6 @@ The project is structured into three main phases:
 
 **Key Files**: `app.py`
 
-### Phase 4: Advanced Model Optimization and Deployment Enhancements
-
-**Objective**: To refine the existing system for improved performance, robustness, and user experience.
-
-**Activities**:
--   **Explore Advanced Architectures**: Investigating and potentially implementing more complex CNN architectures (e.g., LeNet, VGG-like blocks) to achieve higher accuracy or better generalization.
--   **Hyperparameter Tuning**: Systematically tuning hyperparameters (e.g., learning rate, batch size, dropout rate) using techniques like grid search or random search to find optimal configurations.
--   **Data Augmentation**: Implementing data augmentation techniques (e.g., rotation, shifting, zooming) to increase training data diversity and improve model robustness.
--   **Model Quantization/Pruning (Optional)**: Exploring techniques to reduce model size and inference time for deployment efficiency.
--   **Enhanced Web App Features**: Adding advanced features to the web application, such as image upload, confidence thresholds, and feedback mechanisms.
-
-**Key Files**: `mnist_advanced_model.py` (newly created for this phase)
-
 ## Technologies Used
 
 -   **Python**: The primary programming language for the entire project.
@@ -99,3 +86,8 @@ The project is structured into three main phases:
     This will launch the Streamlit web interface in your browser.
 
 Feel free to explore each script and modify them as needed for further experimentation and improvement.
+
+## Streamlit web interface
+
+<img width="1920" height="2404" alt="screencapture-localhost-8501-2025-07-20-12_45_33" src="https://github.com/user-attachments/assets/04df3506-56fc-4435-9c8a-1868a4caa0a3" />
+
